@@ -3,8 +3,6 @@
 <h3 align="center">Dedicated individual with a passion for transformative technologies and machine learning innovations.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-faroq&label=Profile%20views&color=0e75b6&style=flat" alt="umar-faroq" /> </p>
-
 <p align="left"> <a href="https://twitter.com/umarfarooq_ai" target="blank"><img src="https://img.shields.io/twitter/follow/umarfarooq_ai?logo=twitter&style=for-the-badge" alt="umarfarooq_ai" /></a> </p>
 
 - 🔭 I’m currently working on **Computer aided diagnosis systems**
