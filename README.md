@@ -1,4 +1,4 @@
-![logo](https://github.com/Umar-Faroq/Umar-Faroq/blob/main/ai-research.jpg)
+
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 <h3 align="center">Dedicated individual with a passion for transformative technologies and machine learning innovations.</h3>
 
